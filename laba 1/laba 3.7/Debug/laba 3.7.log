@@ -1,0 +1,21 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (laba 3.7.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main_l1.cpp
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(28): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(37): warning C4101: data: неиспользованная локальная переменная
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(96): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "char *"
+  d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(96): note: рекомендуется использовать "%hhd" в строке форматирования
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(96): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note:  см. объявление "fscanf"
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(172): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(173): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note:  см. объявление "fopen"
+d:\миша\институт\5 семестр\защита информации программы\laba 1\laba 3.7\main_l1.cpp(205): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note:  см. объявление "getch"
+main_l1.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  laba 3.7.vcxproj -> D:\Миша\институт\5 семестр\Защита информации программы\laba 1\Debug\laba 1.exe
